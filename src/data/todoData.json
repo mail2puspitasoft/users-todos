@@ -1,0 +1,17 @@
+[
+    {
+        "key": "1",
+        "todo": "Standup",
+        "dateAdded": "21 Jun 2020, 15:34:23"
+    },
+    {
+        "key": "2",
+        "todo": "Spring Meeting",
+        "dateAdded": "22 Jun 2020, 20:10:37"
+    },
+    {
+        "key": "3",
+        "todo": "Discussion Overview",
+        "dateAdded": "23 Jun 2020, 10:12:23"
+    }
+]

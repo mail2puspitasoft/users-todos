@@ -1,0 +1,17 @@
+[
+    {
+        "key": "1",
+        "name": "John Brown",
+        "email": "john.brown@gmail.com"
+    },
+    {
+        "key": "2",
+        "name": "Jim Green",
+        "email": "jim.green@gmail.com"
+    },
+    {
+        "key": "3",
+        "name": "Joe Black",
+        "email": "joe.black@gmail.com"
+    }
+]
